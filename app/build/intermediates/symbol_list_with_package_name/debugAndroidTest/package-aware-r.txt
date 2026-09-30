@@ -1,0 +1,3 @@
+com.smartattendance.qrapp.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_login.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_item_user.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/item_user.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_item_attendance_record.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/item_attendance_record.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_pending.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_pending.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_generate_qr.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_generate_qr.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_splash.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_register.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_bg_status_present.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/bg_status_present.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_attendance_history.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_attendance_history.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_ic_history.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_bg_role_pending.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/bg_role_pending.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_create_user.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_create_user.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_ic_qr_generate.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/ic_qr_generate.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_bg_role_student.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/bg_role_student.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_ic_qr_scanner.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/ic_qr_scanner.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_teacher_dashboard.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_teacher_dashboard.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_bg_role_teacher.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/bg_role_teacher.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/drawable_bg_status_absent.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/drawable/bg_status_absent.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_scan_qr.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_scan_qr.xml"
+    },
+    {
+        "merged": "com.smartattendance.qrapp-merged_res-63:/layout_activity_student_dashboard.xml.flat",
+        "source": "com.smartattendance.qrapp-main-65:/layout/activity_student_dashboard.xml"
+    }
+]
