@@ -3,7 +3,7 @@
 A **minor project** Android application built with Kotlin + Firebase that automates classroom attendance using dynamic, time-limited QR codes.
 
 ## 📦 Download App
-**[Download the latest APK here](smartAttendance.apk)**
+**[Download the latest APK here](https://github.com/arjun250604/SmartAttendance_With_QR_ajn/releases/download/v1.0.0/app-debug.apk)**
 
 ---
 
